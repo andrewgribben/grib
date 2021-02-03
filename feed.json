@@ -1,0 +1,67 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "The Griblog",
+	"icon": "https://micro.blog/grib/avatar.jpg",
+	"home_page_url": "http://grib.co/",
+	"feed_url": "http://grib.co/feed.json",
+	"items": [
+		
+			{
+				"id": "http://grib.micro.blog/2020/11/06/friday-night-lockdown.html",
+				
+				"content_html": "<p>Friday night - lockdown edition</p>\n\n<p><img src=\"uploads/2020/0198835d30.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Friday night - lockdown edition\n\n<img src=\"uploads/2020/0198835d30.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-11-06T22:13:55+00:00",
+				"url": "http://grib.co/2020/11/06/friday-night-lockdown.html"
+			},
+			{
+				"id": "http://grib.micro.blog/2020/11/05/its-impossible-to.html",
+				
+				"content_html": "<p>It’s impossible to wear a VR headset and look cool at the same time</p>\n\n<p><img alt=\"The author wearing an Oculus Quest and looking sooo so cool\" src=\"http://grib.co/uploads/2020/fa7140accd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "It’s impossible to wear a VR headset and look cool at the same time\n\n<img alt=\"The author wearing an Oculus Quest and looking sooo so cool\" src=\"http://grib.co/uploads/2020/fa7140accd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-11-05T13:04:00+00:00",
+				"url": "http://grib.co/2020/11/05/its-impossible-to.html"
+			},
+			{
+				"id": "http://grib.micro.blog/2020/07/04/hamilton-that-is.html",
+				
+				"content_html": "<p>⭐️ Hamilton, that is all.</p>\n",
+				"content_text": "⭐️ Hamilton, that is all.\n",
+				"date_published": "2020-07-04T21:57:44+00:00",
+				"url": "http://grib.co/2020/07/04/hamilton-that-is.html"
+			},
+			{
+				"id": "http://grib.micro.blog/2020/06/29/i-was-about.html",
+				
+				"content_html": "<p>I was about to write a post about how I had no need for a Developer Transition Kit, only to think of at least 3 while mid-sentence 🤦‍♂️</p>\n",
+				"content_text": "I was about to write a post about how I had no need for a Developer Transition Kit, only to think of at least 3 while mid-sentence 🤦‍♂️\n",
+				"date_published": "2020-06-29T21:36:02+00:00",
+				"url": "http://grib.co/2020/06/29/i-was-about.html"
+			},
+			{
+				"id": "http://grib.micro.blog/2020/06/24/im-astounded-at.html",
+				
+				"content_html": "<p>I&rsquo;m astounded at how well Scribble works on iPadOS 14, even in apps I thought would be problematic.</p>\n",
+				"content_text": "I'm astounded at how well Scribble works on iPadOS 14, even in apps I thought would be problematic.\n",
+				"date_published": "2020-06-24T16:14:48+00:00",
+				"url": "http://grib.co/2020/06/24/im-astounded-at.html",
+				"tags": ["toot"]
+			},
+			{
+				"id": "http://grib.micro.blog/2020/06/24/the-steam-controller.html",
+				
+				"content_html": "<p>The Steam Controller was and in some ways still is ahead of its time</p>\n",
+				"content_text": "The Steam Controller was and in some ways still is ahead of its time\n",
+				"date_published": "2020-06-23T23:23:23+00:00",
+				"url": "http://grib.co/2020/06/24/the-steam-controller.html"
+			},
+			{
+				"id": "http://grib.micro.blog/2020/06/23/you-have-to.html",
+				
+				"content_html": "<p>You have to change your mindset if you don’t want COVID-19 restrictions to get you down;  I choose to think that having queues outside of shops makes everywhere feel like Disneyland</p>\n",
+				"content_text": "You have to change your mindset if you don’t want COVID-19 restrictions to get you down;  I choose to think that having queues outside of shops makes everywhere feel like Disneyland \n",
+				"date_published": "2020-06-23T10:08:08+00:00",
+				"url": "http://grib.co/2020/06/23/you-have-to.html"
+			}
+	]
+}
